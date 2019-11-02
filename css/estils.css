@@ -1,4 +1,14 @@
 body{
+    color: darkslategray;
     text-align: center;
     font-display: Arial;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid rgb(48, 21, 21);
+    /* text-align: left; */
+    margin: 0 auto;
 }
