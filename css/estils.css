@@ -7,15 +7,23 @@ body{
 }
 .container{
     width: 70%;
-    padding: 1em;
+    /* padding: 1em; */
     border: 1px solid rgb(48, 21, 21);
     /* text-align: left; */
     margin: 0 auto;
 }
 #cabecera{
     background: mediumspringgreen;
-    box-shadow: 10px 10px 10px 0px rgb(36, 35, 35);
+    box-shadow: 0px 10px 10px 0px rgb(36, 35, 35);
     color: rgb(49, 49, 49);
     margin: 0;
     padding: .5em;
+}
+#footer{
+    background: rgb(48, 51, 56);
+    color: snow;
+    text-align: center;
+    margin: 0;
+    padding: .2em;
+    font-size: 1.5em;
 }
